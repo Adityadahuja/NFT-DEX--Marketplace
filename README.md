@@ -71,25 +71,6 @@ Our vision is to create the most liquid, accessible, and secure NFT trading envi
 - **Oracle Integration**: Real-world data feeds for enhanced price discovery
 - **Formal Verification**: Mathematical proofs for critical contract functions
 
-## Contract Address Details
-
-*Contract addresses will be updated once deployed to mainnet and testnet*
-
-### Mainnet Deployment
-- **Contract Address**: `[To be added after deployment]`
-- **Transaction ID**: `[To be added after deployment]`
-- **Block Height**: `[To be added after deployment]`
-
-### Testnet Deployment
-- **Contract Address**: `[To be added after deployment]`
-- **Transaction ID**: `[To be added after deployment]`
-- **Block Height**: `[To be added after deployment]`
-
-### Contract Verification
-- **Source Code**: Verified and publicly available on this repository
-- **Compiler Version**: Clarity VM Latest
-- **Audit Status**: `[To be updated after audit completion]`
-
 ---
 
 ## Installation & Setup
